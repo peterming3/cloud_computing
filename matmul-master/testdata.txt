@@ -1,0 +1,3 @@
+Run the test directly: 8686899964
+Run the test by terminating previous one: 9921023823
+The time difference is: 1234123859  ns
